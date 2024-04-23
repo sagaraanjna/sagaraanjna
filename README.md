@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sagaraanjna
-- 👀 I’m interested in web dev.,devops & cloud
-- 🌱 I’m currently learning full stake dev.
-- 💞️ I’m looking to collaborate on promact infotech
+- 👀 I’m interested in web , app dev, devops & cloud
+- 🌱 I’m currently working on react native.
 - 📫 How to reach me insta- @its_sagar.69
 
 <!---
